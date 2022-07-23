@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaviBT
 -  I’m interested in learning diferent languages of programing, for reach my object: work in cybersecurity.
--  I’m currently learning CS50, JavaScript and HTML. 
+-  I’m currently learning CSS3, JavaScript and HTML5. 
 -  How to reach me davi.cesarbt@gmail.com
 
 <!---
