@@ -5,19 +5,29 @@
 
 <!-- BODY -->
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaviBT&show_icons=true&layout=compact&amp;hide_border=true&amp;title_color=00bfbf&amp;icon_color=00bfbf&amp;text_color=FFFFFF&amp;bg_color=0d1117" style="max-width: 100%; font-wheight:bold;" />
-  <!-- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-        langs/username=DaviBT&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /> -->
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=DaviBT&show_icons=true&layout=compact&amp;hide_border=true&amp;title_color=00bfbf&amp;icon_color=00bfbf&amp;text_color=FFFFFF&amp;bg_color=0d1117" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBT&layout=compact&langs_count=7&theme=gotham" />
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/davi-c%C3%A9sar-barboza-torres-59837b25a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdFVY3A1HTnWcXQBHpFwgrQ%3D%3D"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<div align="center" margin:"50px">
+  <a href="#"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-## Learning
-
-![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-3122A?style=flat&logo=CSS3&logoColor=157286)
-![JavaScript](https://img.shields.io/badge/-JavaScript122A?style=flat&logo=javascript)
-![NodeJS](https://img.shields.io/badge/-JavaScript122A?style=flat&logo=node.js)
-![GitHub](https://img.shields.io/badge/-GitHub-3122A?style=flat&logo=github)
-![Git](https://img.shields.io/badge/-Git-3122A?style=flat&logo=git)
+<!-- ICONS -->
+<h2>Learning</h2>
+  <p>
+    <!-- NodeJS -->
+  <img src="https://camo.githubusercontent.com/77db13d779784b2a9f974d451306d2be7147eab22d389219adbc6898efe6aae6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e4a532d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6162656c436f6c6f723d3044313131372674657874436f6c6f723d304431313137" alt="Node.JS" data-canonical-src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&amp;logo=node.js&amp;labelColor=0D1117&amp;textColor=0D1117" style="max-width: 100%;">
+  
+  <!--JavaScript-->
+  <img src="https://camo.githubusercontent.com/f51bee89dcc6e95ace4b767c808a8b7b1078c2dad5821d5b9d0b20ebdbc8649f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6162656c436f6c6f723d3044313131372674657874436f6c6f723d304431313137" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&amp;logo=javascript&amp;labelColor=0D1117&amp;textColor=0D1117" style="max-width: 100%;">
+    
+  <img src="https://camo.githubusercontent.com/45e2dbe090c9af5fed72b44f1ffec97170cd0a8611595c52b6d56bd38d555fa7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6162656c436f6c6f723d304431313137" alt="HTML" data-canonical-src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&amp;logo=html5&amp;labelColor=0D1117" style="max-width: 100%;">
+  
+  <!-- CSS --> 
+  <img src="https://camo.githubusercontent.com/9216b7616a53e8ba8c5f610cb2c2e20a01647e7a628ccb041a2f374222a97280/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d43535333266c6f676f436f6c6f723d313537324236266c6162656c436f6c6f723d304431313137" alt="CSS" data-canonical-src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&amp;logo=CSS3&amp;logoColor=1572B6&amp;labelColor=0D1117" style="max-width: 100%;"> 
+  </p>
+  
+  <h2>Tools</h2>
+    <img src="https://camo.githubusercontent.com/4706148d3c7d8b0606820681393aaa67a96f5d8352f06552a4f97262668460c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f2d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f266c6f676f436f6c6f723d433841324338266c6162656c436f6c6f723d304431313137" alt="Visual Studio" data-canonical-src="https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&amp;logo=visual-studio&amp;logoColor=C8A2C8&amp;labelColor=0D1117" style="max-width: 100%;">
+  
