@@ -1,7 +1,7 @@
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Davi Barboza Torres</h1>
 <p text-aling="left"><img src="https://komarev.com/ghpvc/?username=davibt&color=yellow" alt="Profile Views"><p/>
 
-- 16 y/o, focused on learning programing languages.
+- Brazilian, 16 y/o, focused on learning programing languages.
 
 ## Learning
 
