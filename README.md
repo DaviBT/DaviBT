@@ -4,9 +4,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Hello+%F0%9F%91%8B%2C+my+name+is+Davi+Torres;I'm+16+years+old;I+am+from+S%C3%A3o+Paulo%2C+Brazil" alt="Typing SVG" style="aling-itens:center; max-width: 100%; width:100%;"/>
 
 <!-- BODY -->
-<div align="center">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=DaviBT&show_icons=true&layout=compact&amp;hide_border=true&amp;title_color=00bfbf&amp;icon_color=00bfbf&amp;text_color=FFFFFF&amp;bg_color=0d1117" />
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBT&layout=compact&langs_count=7&theme=gotham" />
+<div align-itens="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaviBT&show_icons=true&layout=compact&amp;hide_border=true&amp;title_color=00bfbf&amp;icon_color=00bfbf&amp;text_color=FFFFFF&amp;bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBT&layout=compact&hide_border=true&bg_color=0d1117&langs_count=7&theme=gotham" />
 </div>
 
 <div align="center" margin:"50px">
@@ -30,4 +30,9 @@
   
   <h2>Tools</h2>
     <img src="https://camo.githubusercontent.com/4706148d3c7d8b0606820681393aaa67a96f5d8352f06552a4f97262668460c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f2d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f266c6f676f436f6c6f723d433841324338266c6162656c436f6c6f723d304431313137" alt="Visual Studio" data-canonical-src="https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&amp;logo=visual-studio&amp;logoColor=C8A2C8&amp;labelColor=0D1117" style="max-width: 100%;">
-  
+    
+    <h2 text-align="center">Visitors Count</h2>
+    <div align="center" dir="auto">
+<br><p align="centre" dir="auto"><b>Visitors Count</b></p>  
+<p align="center" dir="auto"><img align="center" src="https://profile-counter.glitch.me/%7BDaviBT%7D/count.svg" data-canonical-src="https://profile-counter.glitch.me/{DaviBT}/count.svg" style="max-width: 100%;"></p> 
+<br></div>
