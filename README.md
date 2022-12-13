@@ -10,7 +10,7 @@
 </div>
 
 <div align="center" margin:"50px">
-  <a href="#"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/davi-c%C3%A9sar-barboza-torres-59837b25a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqKvHsGylQ8WHi3fo2Dt69g%3D%3D"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 <!-- ICONS -->
