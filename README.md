@@ -10,7 +10,7 @@
 </div>
 
 <div align="center" margin:"50px">
-  <a href="www.linkedin.com/in/DaviBT" target=_blank><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="www.linkedin.com/in/DaviBT" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 <!-- ICONS -->
