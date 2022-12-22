@@ -28,13 +28,22 @@
   
   <!-- CSS --> 
   <img src="https://camo.githubusercontent.com/9216b7616a53e8ba8c5f610cb2c2e20a01647e7a628ccb041a2f374222a97280/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d43535333266c6f676f436f6c6f723d313537324236266c6162656c436f6c6f723d304431313137" alt="CSS" data-canonical-src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&amp;logo=CSS3&amp;logoColor=1572B6&amp;labelColor=0D1117" style="max-width: 100%;"> 
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-line-wordmark.svg" alt="Apache" style="max-width:100%; width:80px; height:40px; margin-top: 30px; border-radius:20px;">    
+  
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="max-width:100%; width:100px; height:25px; margin-top: 30px; border-radius:20px;"/>
+  
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" style="max-width:100%; width:60px; height:25px; margin-top: 30px; border-radius:20px;"/>
   </p>
   
   <h2>Tools</h2>
-    <img src="https://camo.githubusercontent.com/4706148d3c7d8b0606820681393aaa67a96f5d8352f06552a4f97262668460c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f2d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f266c6f676f436f6c6f723d433841324338266c6162656c436f6c6f723d304431313137" alt="Visual Studio" data-canonical-src="https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&amp;logo=visual-studio&amp;logoColor=C8A2C8&amp;labelColor=0D1117" style="max-width: 100%;">
-    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" style="max-width:100%; width:70px; height:50px; margin-top: 30px;">
+      <h2>Mastered</h2>
+<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+
 <br><p align="center" dir="auto"><b>Visitors Count</b></p>  
 <p align="center" dir="auto"><img align="center" src="https://profile-counter.glitch.me/%7BDaviBT%7D/count.svg" data-canonical-src="https://profile-counter.glitch.me/{DaviBT}/count.svg" style="max-width: 100%;"></p> 
 <br></div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
