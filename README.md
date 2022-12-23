@@ -29,17 +29,23 @@
   <!-- CSS --> 
   <img src="https://camo.githubusercontent.com/9216b7616a53e8ba8c5f610cb2c2e20a01647e7a628ccb041a2f374222a97280/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d43535333266c6f676f436f6c6f723d313537324236266c6162656c436f6c6f723d304431313137" alt="CSS" data-canonical-src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&amp;logo=CSS3&amp;logoColor=1572B6&amp;labelColor=0D1117" style="max-width: 100%;"> 
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-line-wordmark.svg" alt="Apache" style="max-width:100%; width:80px; height:40px; margin-top: 30px; border-radius:20px;">    
+  <img src="https://img.shields.io/badge/-apache-0D1117?style=for-the-badge&amp;logo=apache&amp;labelColor=0D1117" alt="Apache" style="max-width:100%;">    
   
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="max-width:100%; width:100px; height:25px; margin-top: 30px; border-radius:20px;"/>
+<img src="https://camo.githubusercontent.com/48cb6d19e105cc7c848226f722daa7ad19b06c5e525f8c252463790f95fb4a1c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d626f6f73747261702d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6162656c436f6c6f723d304431313137" alt="Boostrap" data-canonical-src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&amp;logo=bootstrap&amp;labelColor=0D1117" style="max-width: 100%;">
   
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" style="max-width:100%; width:60px; height:25px; margin-top: 30px; border-radius:20px;"/>
+  <img src="https://img.shields.io/badge/-php-0D1117?style=for-the-badge&amp;logo=PHP&amp;labelColor=0D1117" alt="PHP" style="max-width:100%; width:60px; height:25px; margin-top: 30px; border-radius:20px;"/>
   </p>
   
   <h2>Tools</h2>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" style="max-width:100%; width:70px; height:50px; margin-top: 30px;">
-      <h2>Mastered</h2>
-<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+  <p>
+<img src="https://camo.githubusercontent.com/00eca5c9fe1357485c2b13262b475eac913e7579e81caee88f71e25f679bd284/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d304431313137266c6162656c436f6c6f723d304431313137" alt="Visual Studio Code" data-canonical-src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=0D1117&amp;labelColor=0D1117" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/864426c7319ead8e7e4b00df8cc5b9af577eefb2ca1c7f75497625fbdf68883b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6162656c436f6c6f723d304431313137" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&amp;logo=git&amp;labelColor=0D1117" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/1df471ddaa97b20d36f63d4e4ed0dc2e0345437ebeda390c66b48d4853303282/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6162656c436f6c6f723d304431313137" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&amp;logo=github&amp;labelColor=0D1117" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/47b2548090275343ba6a63eea0c9e30c73f2a686fdf8f6c82f35094778fde6d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6162656c436f6c6f723d304431313137" alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&amp;logo=windows&amp;labelColor=0D1117" style="max-width: 100%;">
+  </p>
+
+  <h2>Other Knowledges</h2>
+<img src="https://img.shields.io/badge/-powerpoint-0D1117?style=for-the-badge&amp;logo=powerpoint&amp;labelColor=0D1117" style="max-width: 100%;">
 
 <br><p align="center" dir="auto"><b>Visitors Count</b></p>  
 <p align="center" dir="auto"><img align="center" src="https://profile-counter.glitch.me/%7BDaviBT%7D/count.svg" data-canonical-src="https://profile-counter.glitch.me/{DaviBT}/count.svg" style="max-width: 100%;"></p> 
