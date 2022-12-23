@@ -31,7 +31,7 @@
   
   <img src="https://img.shields.io/badge/-apache-0D1117?style=for-the-badge&amp;logo=apache&amp;labelColor=0D1117" alt="Apache" style="max-width:100%;">    
   
-<img src="https://camo.githubusercontent.com/48cb6d19e105cc7c848226f722daa7ad19b06c5e525f8c252463790f95fb4a1c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d626f6f73747261702d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6162656c436f6c6f723d304431313137" alt="Boostrap" data-canonical-src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&amp;logo=bootstrap&amp;labelColor=0D1117" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/48cb6d19e105cc7c848226f722daa7ad19b06c5e525f8c252463790f95fb4a1c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d626f6f73747261702d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6162656c436f6c6f723d304431313137" alt="Sass" data-canonical-src="https://img.shields.io/badge/-sass-0D1117?style=for-the-badge&amp;logo=sass&amp;labelColor=0D1117" style="max-width: 100%;">
   
   <img src="https://img.shields.io/badge/-php-0D1117?style=for-the-badge&amp;logo=PHP&amp;labelColor=0D1117" alt="PHP" style="max-width:100%; width:60px; height:25px; margin-top: 30px; border-radius:20px;"/>
   </p>
