@@ -9,11 +9,11 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBT&layout=compact&hide_border=true&bg_color=0d1117&langs_count=7&theme=gotham" />
 </div>
 
-<div align="center" margin:"50px" dir="auto">
+<!--<div align="center" margin:"50px" dir="auto">
   <a href="https://www.linkedin.com/in/DaviBT" rel="nofollow">
     <img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
   </a>
-</div>
+</div>-->
 
 <!-- ICONS -->
 <h2>Learning</h2>
@@ -28,7 +28,6 @@
   
   <img src="https://img.shields.io/badge/-apache-0D1117?style=for-the-badge&amp;logo=apache&amp;labelColor=0D1117" alt="Apache" style="max-width:100%;">    
   
-<img src="https://img.shields.io/badge/-sass-0D1117?style=for-the-badge&amp;logo=sass&amp;labelColor=0D1117" alt="Sass" style="max-width: 100%;">
   </p>
   
   <h2>Tools</h2>
@@ -46,6 +45,8 @@
   
   <!-- CSS --> 
   <img src="https://camo.githubusercontent.com/9216b7616a53e8ba8c5f610cb2c2e20a01647e7a628ccb041a2f374222a97280/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d43535333266c6f676f436f6c6f723d313537324236266c6162656c436f6c6f723d304431313137" alt="CSS" data-canonical-src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&amp;logo=CSS3&amp;logoColor=1572B6&amp;labelColor=0D1117" style="max-width: 100%;"> 
+  
+  <img src="https://img.shields.io/badge/-sass-0D1117?style=for-the-badge&amp;logo=sass&amp;labelColor=0D1117" alt="Sass" style="max-width: 100%;">
   
   <!-- Powerpoint -->
 <img src="https://img.shields.io/badge/-powerpoint-0D1117?style=for-the-badge&amp;logo=powerpoint&amp;labelColor=0D1117" style="max-width: 100%;">
