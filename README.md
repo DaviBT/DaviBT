@@ -50,6 +50,8 @@
   
   <!-- Powerpoint -->
 <img src="https://img.shields.io/badge/-powerpoint-0D1117?style=for-the-badge&amp;logo=powerpoint&amp;labelColor=0D1117" style="max-width: 100%;">
+ 
+ <img src="https://img.shields.io/badge/-excel-0D1117?style=for-the-badge&amp;logo=excel&amp;labelColor=0D1117" style="max-width: 100%;">
   </p>
 
 <br><p align="center" dir="auto"><b>Visitors Count</b></p>  
