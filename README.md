@@ -5,9 +5,9 @@
 
 <!-- BODY -->
 <div align-itens="center">
-<!--  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaviBT&show_icons=true&layout=compact&amp;hide_border=true&amp;title_color=00bfbf&amp;icon_color=00bfbf&amp;text_color=FFFFFF&amp;bg_color=0d1117" />
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaviBT&show_icons=true&layout=compact&amp;hide_border=true&amp;title_color=00bfbf&amp;icon_color=00bfbf&amp;text_color=FFFFFF&amp;bg_color=0d1117" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBT&layout=compact&hide_border=true&bg_color=0d1117&langs_count=7&theme=gotham" />
-</div> -->
+</div> 
 
 <!--<div align="center" margin:"50px" dir="auto">
   <a href="https://www.linkedin.com/in/DaviBT" rel="nofollow">
