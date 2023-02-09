@@ -1,12 +1,12 @@
 <!-- HEAD -->
-<img width="100%" src="https://camo.githubusercontent.com/083fbca627ac3484f204327a4e9484f80357f9a89e169c6156601b6989cb8771/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=00bfbf&amp;height=120&amp;section=header&text=Davi+Torres&fontSize=30&fontcolor=fff&animation=twinkling&fontAlingY=35"/>
+<img width="100%" src="https://camo.githubusercontent.com/083fbca627ac3484f204327a4e9484f80357f9a89e169c6156601b6989cb8771/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=00bfbf&amp;height=120&amp;section=header&text=Davi+Torres&fontSize=30&fontcolor=fff&animation=twinkling&fontAlingY=35" alt="header wave image"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Hello+%F0%9F%91%8B%2C+my+name+is+Davi+Torres;I'm+16+years+old;I+am+from+S%C3%A3o+Paulo%2C+Brazil;Student+at+SENAI+Almirante+Tamandaré" alt="Typing SVG" style="aling-itens:center; max-width: 100%; width:100%;"/>
 
 <!-- BODY -->
 <div align-itens="center">
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaviBT&show_icons=true&layout=compact&amp;hide_border=true&amp;title_color=00bfbf&amp;icon_color=00bfbf&amp;text_color=FFFFFF&amp;bg_color=0d1117" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBT&layout=compact&hide_border=true&bg_color=0d1117&langs_count=7&theme=gotham" />
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaviBT&show_icons=true&layout=compact&amp;hide_border=true&amp;title_color=00bfbf&amp;icon_color=00bfbf&amp;text_color=FFFFFF&amp;bg_color=0d1117" alt="git status"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBT&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="most used languages"/>
 </div> 
 
 <!--<div align="center" margin:"50px" dir="auto">
@@ -32,7 +32,7 @@
  
   <img src="https://camo.githubusercontent.com/45e2dbe090c9af5fed72b44f1ffec97170cd0a8611595c52b6d56bd38d555fa7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6162656c436f6c6f723d304431313137" alt="HTML" data-canonical-src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&amp;logo=html5&amp;labelColor=0D1117" style="max-width: 100%;">
   
-  <img src="https://camo.githubusercontent.com/9216b7616a53e8ba8c5f610cb2c2e20a01647e7a628ccb041a2f374222a97280/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d43535333266c6f676f436f6c6f723d313537324236266c6162656c436f6c6f723d304431313137" alt="CSS" data-canonical-src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&amp;logo=CSS3&amp;logoColor=1572B6&amp;labelColor=0D1117" style="max-width: 100%;"> 
+  <img src="https://camo.githubusercontent.com/9216b7616a53e8ba8c5f610cb2c2e20a01647e7a628ccb041a2f374222a97280/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d43535333266c6f676f436f6c6f723d313537324236266c6162656c436f6c6f723d304431313137" alt="CSS3" data-canonical-src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&amp;logo=CSS3&amp;logoColor=1572B6&amp;labelColor=0D1117" style="max-width: 100%;"> 
   
   <img src="https://img.shields.io/badge/-sass-0D1117?style=for-the-badge&amp;logo=sass&amp;labelColor=0D1117" alt="Sass" style="max-width: 100%;">
   
@@ -56,5 +56,5 @@
 <p align="center" dir="auto"><img align="center" src="https://profile-counter.glitch.me/%7BDaviBT%7D/count.svg" data-canonical-src="https://profile-counter.glitch.me/{DaviBT}/count.svg" style="max-width: 100%;"></p> 
 <br></div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer" alt="footer wave image"/>
 
