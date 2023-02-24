@@ -6,8 +6,14 @@
 <!-- BODY -->
 <div align-itens="center">
  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaviBT&show_icons=true&layout=compact&amp;hide_border=true&amp;title_color=00bfbf&amp;icon_color=00bfbf&amp;text_color=FFFFFF&amp;bg_color=0d1117" alt="git status"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBT&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="most used languages"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBT&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&theme=gotham" alt="most used languages"/>
 </div> 
+
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DaviBT&theme=gotham)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DaviBT&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 <!--<div align="center" margin:"50px" dir="auto">
   <a href="https://www.linkedin.com/in/DaviBT" rel="nofollow">
