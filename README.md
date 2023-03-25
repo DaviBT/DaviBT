@@ -28,7 +28,7 @@
   
    <img src="https://img.shields.io/badge/-php-0D1117?style=for-the-badge&amp;logo=PHP&amp;labelColor=0D1117" alt="PHP" style="max-width:100%; width:70px; height:25px; margin-top: 30px; border-radius:20px;"/>
  
- <img src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&amp;logo=python&amp;labelColor=0D1117" alt="Python" style="max-width:100%; width:90px; height:25px; margin-top: 30px; border-radius:20px;"/>
+ <img src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&amp;logo=python&amp;labelColor=0D1117" alt="Python" style="max-width:100%; width:100px; height:25px; margin-top: 30px; border-radius:20px;"/>
   
   <img src="https://img.shields.io/badge/-apache-0D1117?style=for-the-badge&amp;logo=apache&amp;labelColor=0D1117" alt="Apache" style="max-width:100%;">    
   
