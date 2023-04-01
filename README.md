@@ -11,9 +11,9 @@
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DaviBT&theme=gotham)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DaviBT&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+</p> -->
 
 <!--<div align="center" margin:"50px" dir="auto">
   <a href="https://www.linkedin.com/in/DaviBT" rel="nofollow">
