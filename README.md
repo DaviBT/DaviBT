@@ -25,6 +25,8 @@
   <p>
 
   <img src="https://camo.githubusercontent.com/f51bee89dcc6e95ace4b767c808a8b7b1078c2dad5821d5b9d0b20ebdbc8649f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6162656c436f6c6f723d3044313131372674657874436f6c6f723d304431313137" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&amp;logo=javascript&amp;labelColor=0D1117&amp;textColor=0D1117" style="max-width: 100%;">
+ 
+   <img src="https://camo.githubusercontent.com/f51bee89dcc6e95ace4b767c808a8b7b1078c2dad5821d5b9d0b20ebdbc8649f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6162656c436f6c6f723d3044313131372674657874436f6c6f723d304431313137" alt="react" data-canonical-src="https://img.shields.io/badge/-REACT-0D1117?style=for-the-badge&amp;logo=react&amp;labelColor=0D1117&amp;textColor=0D1117" style="max-width: 100%;">
   
    <img src="https://img.shields.io/badge/-php-0D1117?style=for-the-badge&amp;logo=PHP&amp;labelColor=0D1117" alt="PHP" style="max-width:100%; width:70px; height:25px; margin-top: 30px; border-radius:20px;"/>
   
