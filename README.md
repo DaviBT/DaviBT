@@ -1,7 +1,9 @@
 <!-- HEAD -->
 <img width="100%" src="https://camo.githubusercontent.com/083fbca627ac3484f204327a4e9484f80357f9a89e169c6156601b6989cb8771/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=00bfbf&amp;height=120&amp;section=header&text=Davi+Torres&fontSize=30&fontcolor=fff&animation=twinkling&fontAlingY=35" alt="header wave image"/>
 
+<!--
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Hello+%F0%9F%91%8B%2C+my+name+is+Davi;I'm+a+REACT+student" alt="Typing SVG" style="aling-itens:center; max-width: 100%; width:100%;"/>
+-->
 
 <!-- BODY -->
 <div align-itens="center">
