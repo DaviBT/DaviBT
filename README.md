@@ -11,7 +11,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBT&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&theme=gotham" alt="most used languages"/>
 </div> 
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DaviBT&theme=gotham)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DaviBT&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--<div align="center" margin:"50px" dir="auto">
   <a href="https://www.linkedin.com/in/DaviBT" rel="nofollow">
