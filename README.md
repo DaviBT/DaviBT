@@ -1,6 +1,7 @@
 <!-- HEAD -->
+<!--
 <img width="100%" src="https://camo.githubusercontent.com/083fbca627ac3484f204327a4e9484f80357f9a89e169c6156601b6989cb8771/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=00bfbf&amp;height=120&amp;section=header&text=Davi+Torres&fontSize=30&fontcolor=fff&animation=twinkling&fontAlingY=35" alt="header wave image"/>
-
+-->
 <!--
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Hello+%F0%9F%91%8B%2C+my+name+is+Davi;I'm+a+REACT+student" alt="Typing SVG" style="aling-itens:center; max-width: 100%; width:100%;"/>
 -->
@@ -10,19 +11,19 @@
  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaviBT&show_icons=true&layout=compact&amp;hide_border=true&amp;title_color=00bfbf&amp;icon_color=00bfbf&amp;text_color=FFFFFF&amp;bg_color=0d1117" alt="git status"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBT&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&theme=gotham" alt="most used languages"/>
 </div> 
-
+<!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DaviBT&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!--<div align="center" margin:"50px" dir="auto">
+-->
+<div align="center" margin:"50px" dir="auto">
   <a href="https://www.linkedin.com/in/DaviBT" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
   </a>
-</div>-->
+</div>
 
 <h2>Learning</h2>
   <p>
 
-  <img src="https://camo.githubusercontent.com/f51bee89dcc6e95ace4b767c808a8b7b1078c2dad5821d5b9d0b20ebdbc8649f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6162656c436f6c6f723d3044313131372674657874436f6c6f723d304431313137" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&amp;logo=javascript&amp;labelColor=0D1117&amp;textColor=0D1117" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&amp;logo=javascript&amp;labelColor=0D1117&amp;textColor=0D1117" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&amp;logo=javascript&amp;labelColor=0D1117&amp;textColor=0D1117" style="max-width: 100%;">
  
    <img src="https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117" alt="react" style="max-width: 100%;">
   
