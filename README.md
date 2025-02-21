@@ -23,14 +23,7 @@
 <h2>systems development technician</h2>
   <p>graduated from Senai</p>
 
-<br><p align="center" dir="auto"><b>Visitors Count</b></p>  
-<p align="center" dir="auto"><img align="center" src="https://profile-counter.glitch.me/%7BDaviBT%7D/count.svg" data-canonical-src="https://profile-counter.glitch.me/{DaviBT}/count.svg" style="max-width: 100%;"></p> 
-<br></div>
 
-  <!-- snake game -->
-  <div align="center">
-  <img src="https://github.com/DaviBT/DaviBT/blob/output/github-contribution-grid-snake.svg">
-  </div>
 <!--
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer" alt="footer wave image"/>
 -->
